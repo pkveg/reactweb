@@ -1,0 +1,6 @@
+[submodule "w10/w10/loginSubject"]
+	path = w10/w10/loginSubject
+	url = https://github.com/pkveg/loginSubject.git
+[submodule "w10/w10/w10/loginSubject"]
+	path = w10/w10/w10/loginSubject
+	url = https://github.com/pkveg/loginSubject.git

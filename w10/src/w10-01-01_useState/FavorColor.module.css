@@ -1,0 +1,27 @@
+.buttonStyle button{
+    width: 80px;
+    height: 30px;
+    margin: -1px;
+}
+
+.blue{
+    color: blue;
+}
+
+.red{
+    color: red;
+    /* background-color: pink; */
+}
+
+.green{
+    color: green;
+}
+
+.yellow{
+    color: yellow;
+    /* background-color: lime; */
+}
+
+.backgroundButtonStyle{
+    background-color: purple;
+}

@@ -1,0 +1,21 @@
+.blue{
+    color: blue;
+}
+
+.red{
+    color: red;
+    /* background-color: pink; */
+}
+
+.green{
+    color: green;
+}
+
+.yellow{
+    color: yellow;
+    /* background-color: lime; */
+}
+
+.backgroundButtonStyle{
+    background-color: purple;
+}
